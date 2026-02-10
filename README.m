@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Karthikeya-24k
-- 👀 I’m interested in backend devolupment
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me karthikeyakmshasrtri@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Karthikeya-24k/Karthikeya-24k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
