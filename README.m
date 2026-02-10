@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthikeya-24k
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Java and Python with knowledge on C# also
 - 📫 How to reach me karthikeyakmshasrtri@gmail.com
 
 <!---
