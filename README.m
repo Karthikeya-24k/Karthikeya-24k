@@ -1,55 +1,27 @@
-<h1 align="center">Hi 👋, I'm Karthikeya</h1>
-<h3 align="center">Backend-Focused Developer | BCA Final Year | Java • Python • C#</h3>
+<h1 align="center">Hi, I'm Karthikeya</h1>
+<h3 align="center">Backend-Focused Developer | Java • Python • C#</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year BCA student with strong interest in backend engineering  
-- 💡 Focused on building scalable, efficient, and clean systems  
-- 🧠 Currently strengthening Data Structures, problem-solving, and system design foundations  
-- ⚙️ Comfortable with **Java, Python, and C#**  
-- 📚 Always learning. Always improving.
+## About
+Final-year BCA student focused on backend engineering and scalable systems.
+Currently strengthening DSA, system design, and production-ready development.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-Java | Python | C#
-
-**Database**
-MySQL, PL/SQL
-
-**Core Concepts**
-OOP | Backend Development | REST Basics | Problem Solving
-
-
-**Tools**
-Git | GitHub | VS Code | Visual Studio
-
+## Tech Stack
+Languages: Java, Python, C#  
+Database: MySQL  
+Concepts: OOP, REST, Backend Architecture  
+Tools: Git, GitHub, VS Code, Visual Studio  
 
 ---
 
-## 📌 Current Focus
-- Mastering backend development  
-- Writing cleaner and more maintainable code  
-- Preparing for technical interviews  
-- Building real-world projects  
+## Projects
+- Mitra.ai – AI-based mental well-being platform
+- [Add 1–2 more strong backend projects here]
 
 ---
 
-## 🤝 Open to Collaborate On
-- Backend projects  
-- Java / Python applications  
-- Systems that solve practical problems  
-
----
-
-## 📫 Contact
-📧 **Email:** karthikeyakmshasrtri@gmail.com  
-
----
-
-## ⚡ Philosophy
->Days are long. Decades are short 
-                      -Sam Altman.
+## Contact
+📧 karthikeyakmshasrtri@gmail.com
