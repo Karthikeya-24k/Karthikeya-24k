@@ -30,3 +30,4 @@ Tools: Git, GitHub, VS Code, Visual Studio
 
 ## Contact
 📧 karthikeyakmshasrtri@gmail.com
+[In] https://www.linkedin.com/in/k-m-karthikeya-shastry-aa07082b0/
