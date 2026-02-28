@@ -11,9 +11,13 @@ Currently strengthening DSA, system design, and production-ready development.
 
 ## Tech Stack
 Languages: Java, Python, C#
+
 Frontend Technologies: HTML, CSS, JS
-Database: MySQL  
+
+Database: MySQL
+
 Concepts: OOP, REST, Backend Architecture  
+
 Tools: Git, GitHub, VS Code, Visual Studio  
 
 ---
