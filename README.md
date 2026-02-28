@@ -16,7 +16,7 @@ Frontend Technologies: HTML, CSS, JS
 
 Database: MySQL
 
-Concepts: OOP, REST, Backend Architecture  
+Concepts: OOP, Backend Architecture  
 
 Tools: Git, GitHub, VS Code, Visual Studio  
 
