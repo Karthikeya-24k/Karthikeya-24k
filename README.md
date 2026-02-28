@@ -20,8 +20,7 @@ Tools: Git, GitHub, VS Code, Visual Studio
 
 ## Projects
 - Mitra.ai – AI-based mental well-being platform
-- Inventory Management System - For our college\
-- 
+- Inventory Management System - For our college
 
 ---
 
